@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MeuAPP</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="consultar">Consultar</string>
+    <string name="excluir">Excluir</string>
+    <string name="livro">Livro</string>
+    <string name="voltar">Voltar</string>
+</resources>
